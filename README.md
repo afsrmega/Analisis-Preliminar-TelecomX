@@ -2,6 +2,10 @@
 
 Este repositorio contiene un análisis exploratorio de datos (EDA) aplicado al problema de evasión de clientes (churn) en Telecom X. El objetivo del proyecto es comprender los factores que influyen en la cancelación del servicio por parte de los clientes y proponer recomendaciones estratégicas basadas en datos.
 
+## Cómo Ejecutar
+
+Abrir en collab o jupiter el archivo TelecomX_LATAM.ipynb y ejecutar.
+
 ## Objetivos del Proyecto
 
 - Identificar patrones y correlaciones en los datos relacionados con la evasión.
