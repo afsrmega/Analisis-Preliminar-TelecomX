@@ -50,5 +50,5 @@ Importa las librerías,
 pip install pandas matplotlib seaborn numpy
 
 Abre en un Collab
-jupyter notebook Telecom_Churn_Analysis.ipynb
+jupyter notebook TelecomX_LATAM.ipynb
 
